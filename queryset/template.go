@@ -15,6 +15,8 @@ var qsTmpl = template.Must(
 )
 
 const qsCode = `
+// notest
+
 // ===== BEGIN of all query sets
 
 {{ range .Configs }}
